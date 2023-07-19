@@ -1,3 +1,4 @@
+<?php
 function georgianToEnglishName($georgianName) {
 
 $georgianToEnglish = array(
